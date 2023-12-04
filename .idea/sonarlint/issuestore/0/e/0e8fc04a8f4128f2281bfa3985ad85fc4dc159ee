@@ -1,0 +1,8 @@
+
+
+java:S4165"fRemove this useless assignment; "BindWord" already holds the assigned value along all execution paths.(Œ„øúÿÿÿÿ
+h	java:S116"SRename this field "BindWord" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¥Áã
+L
+java:S1172"1Remove this unused method parameter "defprepadj".(¾üˆÎøÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(Œ„øúÿÿÿÿ
